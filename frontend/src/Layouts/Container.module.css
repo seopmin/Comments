@@ -1,0 +1,10 @@
+.container {
+  color: black;
+  background-color: var(--color-gray-600);
+  width: 450px;
+  height: 450px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  margin: 10px;
+}
